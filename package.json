@@ -27,7 +27,7 @@
     "@mockoon/cli": "9.0.0",
     "@types/jest": "29.5.14",
     "@types/lodash": "4.17.13",
-    "@types/node": "22.9.1",
+    "@types/node": "22.9.3",
     "@typescript-eslint/eslint-plugin": "8.15.0",
     "@typescript-eslint/parser": "8.15.0",
     "cypress": "13.16.0",
@@ -51,6 +51,6 @@
     "prettier": "3.3.3",
     "ts-jest": "29.2.5",
     "tsx": "^4.19.1",
-    "typescript": "5.6.3"
+    "typescript": "5.7.2"
   }
 }
