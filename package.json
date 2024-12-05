@@ -30,7 +30,7 @@
     "@types/node": "22.10.1",
     "@typescript-eslint/eslint-plugin": "8.17.0",
     "@typescript-eslint/parser": "8.17.0",
-    "cypress": "13.16.0",
+    "cypress": "13.16.1",
     "cy-spok": "1.6.2",
     "cypress-data-session": "2.8.5",
     "cypress-map": "1.43.0",
@@ -48,7 +48,7 @@
     "jest": "29.7.0",
     "lodash": "4.17.21",
     "npm-run-all2": "7.0.1",
-    "prettier": "3.4.1",
+    "prettier": "3.4.2",
     "ts-jest": "29.2.5",
     "tsx": "^4.19.1",
     "typescript": "5.7.2"
