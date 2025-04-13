@@ -23,7 +23,7 @@
     "@cypress/skip-test": "^2.6.1",
     "@esbuild-plugins/node-globals-polyfill": "0.2.3",
     "@esbuild-plugins/node-modules-polyfill": "0.2.2",
-    "@faker-js/faker": "9.6.0",
+    "@faker-js/faker": "9.7.0",
     "@mockoon/cli": "9.2.0",
     "@types/jest": "29.5.14",
     "@types/lodash": "4.17.16",
@@ -50,7 +50,7 @@
     "lodash": "4.17.21",
     "npm-run-all2": "7.0.2",
     "prettier": "3.5.3",
-    "ts-jest": "29.3.1",
+    "ts-jest": "29.3.2",
     "tsx": "^4.19.1",
     "typescript": "5.8.3"
   }
