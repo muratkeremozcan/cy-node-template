@@ -48,7 +48,7 @@
     "eslint-plugin-prettier": "5.2.6",
     "jest": "29.7.0",
     "lodash": "4.17.21",
-    "npm-run-all2": "7.0.2",
+    "npm-run-all2": "8.0.1",
     "prettier": "3.5.3",
     "ts-jest": "29.3.2",
     "tsx": "^4.19.1",
