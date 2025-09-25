@@ -6,7 +6,7 @@
     "./.eslintrc.js",
     "cypress",
     "./cypress/index.d.ts"
-  ],
+, "playwright/tests"  ],
   "exclude": ["node_modules", "coverage", "dist", "**/*.*test.ts*"],
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig to read more about this file */

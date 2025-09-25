@@ -15,7 +15,10 @@
     "test": "jest --detectOpenHandles --verbose --silent --config jest.config.ts",
     "test:watch": "jest --watch --config jest.config.ts",
     "typecheck": "tsc --noEmit -p tsconfig.json && tsc --noEmit -p tsconfig.jest.json",
-    "lint": "eslint --ext=.js,.ts,.tsx --fix"
+    "lint": "eslint --ext=.js,.ts,.tsx --fix",
+    "pw:test": "npx playwright test",
+    "pw:report": "npx playwright show-report",
+    "pw:codegen": "npx playwright codegen"
   },
   "devDependencies": {
     "@bahmutov/cy-api": "2.2.8",
@@ -25,6 +28,7 @@
     "@esbuild-plugins/node-modules-polyfill": "0.2.2",
     "@faker-js/faker": "9.9.0",
     "@mockoon/cli": "9.3.0",
+    "@playwright/test": "^1.54.1",
     "@types/jest": "29.5.14",
     "@types/lodash": "4.17.20",
     "@types/node": "22.16.5",
@@ -49,6 +53,7 @@
     "jest": "29.7.0",
     "lodash": "4.17.21",
     "npm-run-all2": "8.0.4",
+    "playwright": "^1.54.1",
     "prettier": "3.6.2",
     "ts-jest": "29.4.0",
     "tsx": "^4.19.1",
