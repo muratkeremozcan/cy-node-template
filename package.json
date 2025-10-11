@@ -50,7 +50,7 @@
     "lodash": "4.17.21",
     "npm-run-all2": "8.0.4",
     "prettier": "3.6.2",
-    "ts-jest": "29.4.4",
+    "ts-jest": "29.4.5",
     "tsx": "^4.19.1",
     "typescript": "5.9.3"
   }
