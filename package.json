@@ -34,7 +34,7 @@
     "cy-spok": "1.7.0",
     "cypress": "15.7.0",
     "cypress-data-session": "2.8.8",
-    "cypress-map": "1.53.2",
+    "cypress-map": "1.55.0",
     "cypress-recurse": "^1.35.3",
     "dotenv": "17.2.3",
     "eslint": "8.57.1",
