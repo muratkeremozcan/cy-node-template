@@ -18,7 +18,7 @@
     "lint": "eslint --ext=.js,.ts,.tsx --fix"
   },
   "devDependencies": {
-    "@bahmutov/cy-api": "2.2.8",
+    "@bahmutov/cy-api": "2.2.9",
     "@bahmutov/cypress-esbuild-preprocessor": "2.2.8",
     "@cypress/skip-test": "^2.6.1",
     "@esbuild-plugins/node-globals-polyfill": "0.2.3",
