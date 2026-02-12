@@ -27,7 +27,7 @@
     "@mockoon/cli": "9.5.0",
     "@types/jest": "30.0.0",
     "@types/lodash": "4.17.23",
-    "@types/node": "24.10.12",
+    "@types/node": "24.10.13",
     "@typescript-eslint/eslint-plugin": "8.55.0",
     "@typescript-eslint/parser": "8.55.0",
     "cy-retryable-before": "^1.0.2",
