@@ -52,6 +52,6 @@
     "prettier": "3.8.1",
     "ts-jest": "29.4.9",
     "tsx": "^4.19.1",
-    "typescript": "5.9.3"
+    "typescript": "6.0.2"
   }
 }
